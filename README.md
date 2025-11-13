@@ -1,0 +1,1 @@
+/home/raito/brain2/informatique/system/linux/programmes/obsidian_sh.md
