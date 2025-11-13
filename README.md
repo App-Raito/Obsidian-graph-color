@@ -2,7 +2,7 @@
 
 ## Context
 
-This file allows you to modify the **graph.json** file. It must be used after adding or removing folders from the vault. The goal is that in the Obsidian graph, all files in the same folder are represented by a node of the same color. 
+This script allows you to modify the **graph.json** file for Obsidian application. It must be used after adding or removing folders from the vault. The goal is that in the Obsidian graph, all files in the same folder are represented by a node of the same color. 
 
 When looking at the local graph, you can quickly see which file represents the parent folder and which file is not in the same folder.
 
@@ -15,7 +15,7 @@ Then apply the changes to the local graphs. (cmd obsidian)
         Sync Graph Settings: Sync Graph Settings to Local Graph
 
 
-> [!attention] 
+> [!Warning] 
 > This script must be run from the root of the vault.
 > The Obsidian application must be closed before using the script.
 
